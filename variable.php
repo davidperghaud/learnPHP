@@ -1,6 +1,6 @@
 <?php
 
 $ageDuVisiteur = 20;
-echo $ageDuVisiteur;
+echo 'le visiteur a ' . $ageDuVisiteur . ' ans.';
 
 ?>
